@@ -13,3 +13,7 @@ Some Objective-C code snippets I use in Xcode.
 > Now copy-paste the code from one of these snippets, highlight the code block
 > you just pasted and drag it to the Code Snippet panel. Make sure to match
 > the suggested platform, language, and completion scope.
+
+Make sure to match the completion scope that's noted in the comment above the
+snippet. The platform is *All* and the language is *Objective-C* unless stated
+otherwise.
